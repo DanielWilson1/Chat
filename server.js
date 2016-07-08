@@ -14,7 +14,7 @@ var rooms = [{
 			}];
 
 var next = [0];
-//var lock = ["unlocked"];
+var lock = ["unlocked"];
 
 
 function sendCurrenntUsers (socket){
